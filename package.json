@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-gpio3",
+  "version": "0.0.1",
+  "description": "Homebridge plugin exposing devices plugged on GPIO",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "gpio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChrisHuber42/homebridge-gpio3"
+  },
+  "bugs": {
+    "url": "http://github.com/ChrisHuber42/homebridge-gpio3/issues"
+  },
+  "engines": {
+    "node": ">=10",
+    "homebridge": ">=0.2.0"
+  },
+  "homepage": "",
+  "author": "Christian Huber",
+  "license": "ISC",
+  "dependencies": {}
+}
