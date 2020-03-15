@@ -18,7 +18,7 @@ wpi = {
 }
 
 module.exports = function (homebridge) {
-	console.log("homebridge-gpio2 API version: " + homebridge.version);
+	console.log("homebridge-gpio3 API version: " + homebridge.version);
 
 	// Accessory must be created from PlatformAccessory Constructor
 	Accessory = homebridge.platformAccessory;
